@@ -1,2 +1,2 @@
 # DSA-
-It contain all my file related problem solving and journey of me from scratch 
+It contain all my file related problem solving and my journey from scratch 
